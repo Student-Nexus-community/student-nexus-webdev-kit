@@ -6,4 +6,4 @@
 2. Upload your website files (HTML, CSS, JS)
 3. Go to Settings > Pages
 4. Select branch `main` and folder `/root`
-5. Click "Save" – Your site is live at:
+5. Click "Save" – Your site is live at:https://your-username.github.io/your-repo-name/
