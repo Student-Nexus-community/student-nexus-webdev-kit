@@ -24,18 +24,25 @@ Whether you're taking your first step or building your portfolio, this kit has e
 - 🎓 Campus clubs running workshops  
 - 👨‍💻 Self-learners who want real project experience  
 
-No prior coding experience needed — just curiosity and internet!
+🟢 No prior coding experience needed — just curiosity and internet!
 
 ---
 
 ## 🧭 How to Use This Kit
 
-1. **Start with the Free Courses** – Learn the basics
-2. **Pick a Project** – Start building
-3. **Use Tools & Cheat Sheets** – Work smarter
-4. **Host Your Work** – Share your creations with the world
+1. 📚 **Start with the Free Courses** – Learn the basics  
+2. 💡 **Pick a Project** – Apply what you’ve learned  
+3. 🧰 **Use Tools & Cheat Sheets** – Work smarter  
+4. 🚀 **Host Your Work** – Share your creations with the world  
 
 ---
+
+## 🙌 Contribute to This Project
+
+Want to help other students?  
+We welcome contributions, feedback, and ideas!
+
+> 📌 To contribute, check our [CONTRIBUTING.md](./CONTRIBUTING.md) (coming soon)
 
 ---
 
@@ -51,7 +58,7 @@ Stay updated with new resources, events, AI tools, and student opportunities fro
 
 🎯 **Built by students, for students.**  
 📢 Tag us in your projects and we might feature your work! 🚀
- 
+
 We believe learning should be fun, accessible, and hands-on.  
 Let’s build the next generation of creators together.
 
