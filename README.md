@@ -41,17 +41,17 @@ No prior coding experience needed — just curiosity and internet!
 
 ## 📲 Connect with Us
 
-Stay updated with new resources, events, and student opportunities!
+Stay updated with new resources, events, AI tools, and student opportunities from **Student Nexus**! 💡✨
 
-- 🔗 [Instagram](https://instagram.com/studentnexus.in)
-- 🔗 [LinkedIn](https://linkedin.com/company/studentnexus)
-- 🔗 [GitHub](https://github.com/Student-Nexus-community)
+- 📸 Instagram: [@studentnexus.in](https://instagram.com/studentnexus.in)
+- 💼 LinkedIn: [Student Nexus](https://linkedin.com/company/studentnexus)
+- 🧑‍💻 GitHub: [Student Nexus Community](https://github.com/Student-Nexus-community)
+- 🌐 Website: [www.studentnexus.in](https://www.studentnexus.in) *(coming soon)*
+- ✉️ Email: studentnexuscommunity@gmail.com
 
-Follow and tag us when you build something cool using this kit! 🚀
-
----
-
-📢 *Built with ❤️ by students, for students.*  
+🎯 **Built by students, for students.**  
+📢 Tag us in your projects and we might feature your work! 🚀
+ 
 We believe learning should be fun, accessible, and hands-on.  
 Let’s build the next generation of creators together.
 
