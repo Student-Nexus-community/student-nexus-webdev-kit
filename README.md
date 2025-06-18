@@ -42,7 +42,7 @@ Whether you're taking your first step or building your portfolio, this kit has e
 Want to help other students?  
 We welcome contributions, feedback, and ideas!
 
-> 📌 To contribute, check our [CONTRIBUTING.md](./CONTRIBUTING.md) (coming soon)
+> 📌 To contribute, check our [CONTRIBUTING.md](./CONTRIBUTING.md) 
 
 ---
 
